@@ -1,6 +1,6 @@
 {
   "name": "@drorgl/sitemap-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library for building sitemaps and sitemap index",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
