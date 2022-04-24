@@ -1,0 +1,10 @@
+/.eslintrc.js
+/.nycrc
+/.vscode/
+/src/
+/*sitemap-builder-*.tgz
+/.nyc_output/
+/coverage/
+/test/
+/dist/test/
+/tsconfig.json

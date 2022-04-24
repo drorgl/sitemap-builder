@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "camelcase",
+        "changefreq",
+        "Dror",
+        "drorgl",
+        "dryrun",
+        "fishilico",
+        "Gluska",
+        "Googlebot",
+        "Grillerson",
+        "Grilly",
+        "lastmod",
+        "libxmljs",
+        "precommit",
+        "sitemapindex",
+        "urlset",
+        "XMLXSD"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+}
