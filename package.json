@@ -13,7 +13,7 @@
     "precommit": "npm run lint && npm run dryrun && npm run test",
     "coverage": "rimraf ./coverage && nyc mocha -r ts-node/register -r source-map-support/register --ui bdd test/**/*.spec.ts"
   },
-  "keywords": [],
+  "keywords": ["sitemap","sitemap.xml","robots.txt"],
   "author": "Dror Gluska",
   "license": "MIT",
   "dependencies": {
